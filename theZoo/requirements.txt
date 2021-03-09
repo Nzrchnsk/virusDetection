@@ -1,0 +1,4 @@
+urllib2.request
+pyminizip
+
+pip~=21.0.1
