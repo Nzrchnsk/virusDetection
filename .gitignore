@@ -1,0 +1,16 @@
+/dataset
+/dataset_big_size
+/dataset_gray
+/dataset_barcode
+/datasets_txt
+/tmp
+/train
+/theZoo/malwares
+/theZoo/encoding_mal_binaries
+/theZoo/.git_old
+/theZoo/.idea/*
+/theZoo/venv/
+/.idea/*
+1.png
+1.txt
+tmp.png
